@@ -1,0 +1,13 @@
+{
+  "name": "rollup",
+  "version": "1.0.0",
+  "description": "a repo for learning rollup",
+  "main": "index.js",
+  "repository": "https://github.com/zxh19890103/rollup-learn.git",
+  "author": "Singhi John",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "rollup": "^1.19.4"
+  }
+}
