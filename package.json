@@ -7,6 +7,9 @@
   "author": "Singhi John",
   "license": "MIT",
   "private": false,
+  "scripts": {
+     "build": "cd ./start && rollup -c ./rollup.config.js"
+  },
   "devDependencies": {
     "rollup": "^1.19.4"
   }
